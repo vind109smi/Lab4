@@ -1,0 +1,11 @@
+C:\Users\Sheikh\source\repos\MVCLab\MVCLab\bin\Release\netcoreapp2.0\MVCLab.deps.json
+C:\Users\Sheikh\source\repos\MVCLab\MVCLab\bin\Release\netcoreapp2.0\MVCLab.runtimeconfig.json
+C:\Users\Sheikh\source\repos\MVCLab\MVCLab\bin\Release\netcoreapp2.0\MVCLab.runtimeconfig.dev.json
+C:\Users\Sheikh\source\repos\MVCLab\MVCLab\bin\Release\netcoreapp2.0\MVCLab.dll
+C:\Users\Sheikh\source\repos\MVCLab\MVCLab\bin\Release\netcoreapp2.0\MVCLab.pdb
+C:\Users\Sheikh\source\repos\MVCLab\MVCLab\obj\Release\netcoreapp2.0\MVCLab.csprojResolveAssemblyReference.cache
+C:\Users\Sheikh\source\repos\MVCLab\MVCLab\obj\Release\netcoreapp2.0\MVCLab.csproj.CoreCompileInputs.cache
+C:\Users\Sheikh\source\repos\MVCLab\MVCLab\obj\Release\netcoreapp2.0\MVCLab.AssemblyInfoInputs.cache
+C:\Users\Sheikh\source\repos\MVCLab\MVCLab\obj\Release\netcoreapp2.0\MVCLab.AssemblyInfo.cs
+C:\Users\Sheikh\source\repos\MVCLab\MVCLab\obj\Release\netcoreapp2.0\MVCLab.dll
+C:\Users\Sheikh\source\repos\MVCLab\MVCLab\obj\Release\netcoreapp2.0\MVCLab.pdb

@@ -1,0 +1,8 @@
+C:\Users\Sheikh\source\repos\MVCLab\MVCLab
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=MVCLab
+--content-root=C:\Users\Sheikh\source\repos\MVCLab\MVCLab
+--file=C:\Users\Sheikh\source\repos\MVCLab\MVCLab\Views\Home\Index.cshtml
+--file=C:\Users\Sheikh\source\repos\MVCLab\MVCLab\Views\Home\Items.cshtml
+--file=C:\Users\Sheikh\source\repos\MVCLab\MVCLab\Views\Shared\_Layout.cshtml
+--file=C:\Users\Sheikh\source\repos\MVCLab\MVCLab\Views\_ViewStart.cshtml

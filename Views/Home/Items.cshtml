@@ -1,0 +1,24 @@
+﻿<DOCTYPE html>
+    <html>
+    <head>
+        <title>Box Formatting</title>
+    </head>
+<body>
+        <h2>Language List</h2>
+            <div>
+                <ol>
+                    @foreach (var languages in Model)
+                    { 
+                        <li>@languages</li>
+                    }
+                </ol>
+            </div> 
+        <h2>Boxes</h2>
+    @for (int i = 1; i <= (int)ViewData["ID"]; i++)
+    { 
+        <div id="boxList">@i</div>
+    }
+</body>
+    </html>
+
+

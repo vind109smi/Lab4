@@ -1,0 +1,45 @@
+﻿body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    padding: 20px;
+    color: lightgreen;
+    background-color: orange;
+    border-radius: 10px;
+}
+
+
+
+.time {
+    margin: 10px;
+    padding: 10px;
+}
+
+.date {
+    margin: 10px;
+    padding: 10px;
+}
+
+.remainingtime {
+    margin: 10px;
+    padding: 10px;
+}
+
+#boxList {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    display: block;
+    width: 45px;
+    height: 45px;
+    font-size: 32px;
+    text-align: center;
+}
+#outerBorder {
+    border: 3px solid blue;
+    padding: 13px;
+    border-radius: 10px;
+    text-decoration: none;
+}
